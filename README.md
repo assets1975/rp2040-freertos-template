@@ -4,6 +4,7 @@ This is a template project for developing FreeRTOS based applications on Raspber
 
 Unmodified, this project will spawn a single task to rapidly blink the LED on and off.
 
+git clone --recurse-submodules https://github.com/assets1975/rp2040-freertos-template.git
 
 # Нужно указать путь к PICO SDK.
 
