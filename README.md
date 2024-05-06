@@ -5,7 +5,7 @@ This is a template project for developing FreeRTOS based applications on Raspber
 Unmodified, this project will spawn a single task to rapidly blink the LED on and off.
 
 
-# Нужно указать путь к PICO_SDK_PATH.
+# Нужно указать путь к PICO SDK.
 
 # Способ 1
 
