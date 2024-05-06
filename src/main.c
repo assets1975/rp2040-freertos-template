@@ -14,6 +14,7 @@ void led_task()
         vTaskDelay(100);
         gpio_put(LED_PIN, 0);
         vTaskDelay(100);
+        printf("Hello world\r\n");
     }
 }
 
