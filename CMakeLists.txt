@@ -8,7 +8,7 @@ set(PICO_SDK_PATH "c:\\App\\Raspberry Pi\\Pico SDK v1.5.1\\pico-sdk\\")
 # cmake -DPICO_SDK_PATH=/home/assets/rasberry-pi-pico/pico-sdk
 
 # Name project
-SET(ProjectName apkSpiUarts)
+SET(ProjectName projectName)
 
 # Set any variables required for importing libraries
 SET(FREERTOS_KERNEL_PATH ${CMAKE_CURRENT_SOURCE_DIR}/lib/FreeRTOS-Kernel)
